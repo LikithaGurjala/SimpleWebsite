@@ -1,0 +1,5 @@
+package com.example.simplewebsite.model;
+
+public class User {
+
+}

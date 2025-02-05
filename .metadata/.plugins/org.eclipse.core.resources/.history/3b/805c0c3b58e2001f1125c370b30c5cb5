@@ -1,0 +1,5 @@
+package com.example.simplewebsite.repository;
+
+public interface UserRepository {
+
+}
